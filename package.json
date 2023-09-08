@@ -1,0 +1,15 @@
+{
+  "name": "upandrunningwithappium",
+  "version": "1.0.0",
+  "description": "This is a project to get up and running with Appium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.15.10",
+    "webdriverio": "^8.3.2"
+  }
+}
